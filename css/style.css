@@ -1,0 +1,50 @@
+html body{
+  height: 100%;
+}
+
+
+.showPost{
+  border-left: 0px solid black;
+  width: 100%;
+}
+
+.postHead{
+  margin-top: 0px;
+  width: 100px;
+}
+
+.container-fluid {
+  padding: 0;
+  width: 100%;
+}
+
+.header{
+  background-color: #2471a3;
+}
+
+.jumbotron{
+  width: 60%;
+  padding: 0px;
+}
+
+.footer {
+  height: 8%;
+  width: 100%;
+  background-color: blue;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  display: table;
+}
+.footer p {
+  margin-top: 10px;
+  width: 100%;
+  display: table-cell; vertical-align: middle;
+  background-color: #2471a3;
+}
+
+.panel{
+  margin-right: 15px;
+  margin-left: 15px;
+  margin-bottom : 15px;
+}
